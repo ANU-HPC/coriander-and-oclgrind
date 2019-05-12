@@ -18,7 +18,7 @@ This is done with the following command:
 
     docker run --rm -it --runtime=nvidia beaujoh/coriander-and-oclgrind:1.0
 
-If you are feeling like living in the old school, you can build and run directly -- this is outlined in the remainder of the README.
+If you are feeling like being more explicit, you can build and run directly outlined in the remainder of the README.
 
 # Build
 
